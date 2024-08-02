@@ -1,2 +1,2 @@
-busybox:1.25
-voidking/pod-data-restorer:v1.2.0
+juicedata/juicefs-csi-driver:v0.24.4
+juicedata/csi-dashboard:v0.24.4
