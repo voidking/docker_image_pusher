@@ -10,6 +10,11 @@
 作者：**[技术爬爬虾](https://github.com/tech-shrimp/me)**<br>
 B站，抖音，Youtube全网同名，转载请注明作者<br>
 
+## 拉取镜像示例
+```bash
+docker pull registry.cn-hangzhou.aliyuncs.com/imageproxy/one-api:v0.6.11-alpha.8
+```
+
 ## 使用方式
 
 
