@@ -1,1 +1,1 @@
-juicedata/mount:ce-v1.2.0
+justsong/one-api:v0.6.11-alpha.8
